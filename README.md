@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aliza Ali (@AlizaAli9490)
+- 👋 Hi, I’m Aliza Ali (@alizaali94)
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning advanced techniques in Laravel, Flutter, and React Native
 - 💞️ I’m looking to collaborate on innovative web and mobile app projects
