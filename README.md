@@ -17,9 +17,12 @@
 
 Here are some notable projects I've worked on:
 
-1. [Project Name](link): Brief description of the project.
-2. [Project Name](link): Brief description of the project.
-3. [Project Name](link): Brief description of the project.
+1. [YOORI](https://github.com/alizaali94/YOORI): Yoori is a modern and versatile template 🎨🛠️ built on Laravel and Vue.js, designed to streamline the development of web applications.
+2. [Cookbook](https://github.com/alizaali94/Cookbook): 📚🍴 Cookbook is a delightful mobile application built with React Native that serves as your ultimate companion in the kitchen. 
+3. [P2P Chat](https://github.com/alizaali94/P2P_Chat): P2P_Chat is a sleek chatting app crafted with Flutter 📱, leveraging Firebase for real-time messaging.
+4. [Strapi](https://github.com/alizaali94/Strapi): A website on Yummy Foods 🤤 with Strapi.
+5. [Vocational Training Institute](https://github.com/alizaali94/Vocational-Training-Institute): Codebase for vocational training institute's website.
+6. [Signup / Login Form Designs](https://github.com/alizaali94/SignUp-Login-Designs): 🎨 Stylish HTML/CSS login & signup forms perfect for web projects.
 
 Feel free to explore my repositories to see more of my work!
 
